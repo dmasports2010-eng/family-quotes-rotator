@@ -1,0 +1,2 @@
+# TRMNL feed must stay byte-stable: LF only, never CRLF on checkout.
+*.xml text eol=lf
