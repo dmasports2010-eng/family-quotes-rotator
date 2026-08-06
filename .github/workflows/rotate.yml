@@ -1,0 +1,45 @@
+name: Rotate quote
+
+on:
+  schedule:
+    # Every 6 hours. GitHub queues scheduled runs under load, so treat this as
+    # "roughly every 6h" -- the rotation is time-derived, not counter-derived,
+    # so a late run still picks the correct cycle rather than drifting.
+    - cron: "0 */6 * * *"
+  # Manual trigger. Also the way to reset GitHub's 60-day inactivity timer,
+  # which otherwise disables cron on repos with no pushes.
+  workflow_dispatch:
+
+# The whole point of moving off the gist: the built-in token can write here.
+# No PAT, no repo secret.
+permissions:
+  contents: write
+
+# Never let two rotations race on a push to the same branch.
+concurrency:
+  group: rotate-feed
+  cancel-in-progress: false
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate the feed
+        run: python3 rotate.py
+
+      - name: Commit and push if the order changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- family_quotes.xml; then
+            echo "Order already current for this cycle -- nothing to commit."
+            exit 0
+          fi
+          lead=$(python3 rotate.py --print-first)
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add family_quotes.xml
+          git commit -m "Rotate feed: ${lead} now leads"
+          git push
+          echo "Pushed: ${lead} now leads the feed."
