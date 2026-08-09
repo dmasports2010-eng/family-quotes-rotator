@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"We rise by lifting others."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-13</link>
-      <description>— Robert Ingersoll</description>
-      <author>noreply@example.com (Robert Ingersoll)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Sat, 30 May 2026 08:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-13</guid>
-    </item>
-    <item>
       <title>"There is nothing better than a friend, unless it is a friend with chocolate."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-3</link>
       <description>— Linda Grayson</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Fri, 29 May 2026 20:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-25</guid>
+    </item>
+    <item>
+      <title>"We rise by lifting others."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-13</link>
+      <description>— Robert Ingersoll</description>
+      <author>noreply@example.com (Robert Ingersoll)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Sat, 30 May 2026 08:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-13</guid>
     </item>
   </channel>
 </rss>
