@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"The way you say good morning sets the tone for the whole day."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-70</link>
-      <description>— Anonymous</description>
-      <author>noreply@example.com (Anonymous)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 23:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-70</guid>
-    </item>
-    <item>
       <title>"Have you had a kindness shown? Pass it on."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
       <description>— Henry Burton</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Fri, 29 May 2026 02:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-43</guid>
+    </item>
+    <item>
+      <title>"The way you say good morning sets the tone for the whole day."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-70</link>
+      <description>— Anonymous</description>
+      <author>noreply@example.com (Anonymous)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 23:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-70</guid>
     </item>
   </channel>
 </rss>
