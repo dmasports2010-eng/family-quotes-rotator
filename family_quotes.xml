@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Fall seven times, stand up eight."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-43</link>
-      <description>— Japanese proverb</description>
-      <author>noreply@example.com (Japanese proverb)</author>
-      <category>Resilience &amp; Courage</category>
-      <pubDate>Fri, 29 May 2026 02:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-43</guid>
-    </item>
-    <item>
       <title>"The way you say good morning sets the tone for the whole day."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-70</link>
       <description>— Anonymous</description>
@@ -815,6 +806,15 @@
       <category>Growth &amp; Curiosity</category>
       <pubDate>Fri, 29 May 2026 14:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-31</guid>
+    </item>
+    <item>
+      <title>"Fall seven times, stand up eight."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-43</link>
+      <description>— Japanese proverb</description>
+      <author>noreply@example.com (Japanese proverb)</author>
+      <category>Resilience &amp; Courage</category>
+      <pubDate>Fri, 29 May 2026 02:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-43</guid>
     </item>
   </channel>
 </rss>
