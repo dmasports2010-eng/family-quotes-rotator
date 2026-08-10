@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Have you had a kindness shown? Pass it on."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
-      <description>— Henry Burton</description>
-      <author>noreply@example.com (Henry Burton)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-40</guid>
-    </item>
-    <item>
       <title>"Where there is love there is life."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-65</link>
       <description>— Mahatma Gandhi</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Wed, 27 May 2026 23:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-70</guid>
+    </item>
+    <item>
+      <title>"Have you had a kindness shown? Pass it on."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
+      <description>— Henry Burton</description>
+      <author>noreply@example.com (Henry Burton)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-40</guid>
     </item>
   </channel>
 </rss>
