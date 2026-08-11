@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Wherever you go, there you are."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-77</link>
-      <description>— Jon Kabat-Zinn</description>
-      <author>noreply@example.com (Jon Kabat-Zinn)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 16:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-77</guid>
-    </item>
-    <item>
       <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
       <description>— Fred Rogers</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Fri, 29 May 2026 16:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-29</guid>
+    </item>
+    <item>
+      <title>"Wherever you go, there you are."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-77</link>
+      <description>— Jon Kabat-Zinn</description>
+      <author>noreply@example.com (Jon Kabat-Zinn)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 16:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-77</guid>
     </item>
   </channel>
 </rss>
