@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Love recognizes no barriers."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-2</link>
-      <description>— Maya Angelou</description>
-      <author>noreply@example.com (Maya Angelou)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Mon, 08 Jun 2026 23:39:52 +0000</pubDate>
-      <guid isPermaLink="false">quote-2</guid>
-    </item>
-    <item>
       <title>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-45</link>
       <description>— Marcel Proust</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Thu, 28 May 2026 16:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-53</guid>
+    </item>
+    <item>
+      <title>"Love recognizes no barriers."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-2</link>
+      <description>— Maya Angelou</description>
+      <author>noreply@example.com (Maya Angelou)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Mon, 08 Jun 2026 23:39:52 +0000</pubDate>
+      <guid isPermaLink="false">quote-2</guid>
     </item>
   </channel>
 </rss>
