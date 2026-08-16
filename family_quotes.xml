@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Love grows by giving. The love we give away is the only love we keep."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-88</link>
-      <description>— Elbert Hubbard</description>
-      <author>noreply@example.com (Elbert Hubbard)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Wed, 27 May 2026 05:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-88</guid>
-    </item>
-    <item>
       <title>"Family is not an important thing. It's everything."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-4</link>
       <description>— Michael J. Fox</description>
@@ -815,6 +806,15 @@
       <category>Friendship &amp; Connection</category>
       <pubDate>Fri, 29 May 2026 15:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-30</guid>
+    </item>
+    <item>
+      <title>"Love grows by giving. The love we give away is the only love we keep."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-88</link>
+      <description>— Elbert Hubbard</description>
+      <author>noreply@example.com (Elbert Hubbard)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Wed, 27 May 2026 05:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-88</guid>
     </item>
   </channel>
 </rss>
