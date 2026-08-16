@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Family is not an important thing. It's everything."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-4</link>
-      <description>— Michael J. Fox</description>
-      <author>noreply@example.com (Michael J. Fox)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Mon, 06 Jul 2026 11:00:02 +0000</pubDate>
-      <guid isPermaLink="false">quote-4</guid>
-    </item>
-    <item>
       <title>"Hope is being able to see that there is light despite all of the darkness."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-82</link>
       <description>— Desmond Tutu</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Wed, 27 May 2026 05:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-88</guid>
+    </item>
+    <item>
+      <title>"Family is not an important thing. It's everything."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-4</link>
+      <description>— Michael J. Fox</description>
+      <author>noreply@example.com (Michael J. Fox)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Mon, 06 Jul 2026 11:00:02 +0000</pubDate>
+      <guid isPermaLink="false">quote-4</guid>
     </item>
   </channel>
 </rss>
