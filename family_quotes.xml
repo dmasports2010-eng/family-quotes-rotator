@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Be the change that you wish to see in the world."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-62</link>
-      <description>— Mahatma Gandhi</description>
-      <author>noreply@example.com (Mahatma Gandhi)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Thu, 28 May 2026 07:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-62</guid>
-    </item>
-    <item>
       <title>"What you seek is seeking you."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-34</link>
       <description>— Rumi</description>
@@ -815,6 +806,15 @@
       <category>Growth &amp; Curiosity</category>
       <pubDate>Thu, 28 May 2026 02:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-67</guid>
+    </item>
+    <item>
+      <title>"Be the change that you wish to see in the world."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-62</link>
+      <description>— Mahatma Gandhi</description>
+      <author>noreply@example.com (Mahatma Gandhi)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Thu, 28 May 2026 07:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-62</guid>
     </item>
   </channel>
 </rss>
