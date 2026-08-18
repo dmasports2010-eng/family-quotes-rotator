@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"What you seek is seeking you."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-34</link>
-      <description>— Rumi</description>
-      <author>noreply@example.com (Rumi)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Fri, 29 May 2026 11:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-34</guid>
-    </item>
-    <item>
       <title>"We rise by lifting others."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-13</link>
       <description>— Robert Ingersoll</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Thu, 28 May 2026 07:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-62</guid>
+    </item>
+    <item>
+      <title>"What you seek is seeking you."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-34</link>
+      <description>— Rumi</description>
+      <author>noreply@example.com (Rumi)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Fri, 29 May 2026 11:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-34</guid>
     </item>
   </channel>
 </rss>
