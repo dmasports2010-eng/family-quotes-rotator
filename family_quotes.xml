@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"We rise by lifting others."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-13</link>
-      <description>— Robert Ingersoll</description>
-      <author>noreply@example.com (Robert Ingersoll)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Sat, 30 May 2026 08:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-13</guid>
-    </item>
-    <item>
       <title>"Do small things with great love."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-51</link>
       <description>— Mother Teresa</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Fri, 29 May 2026 11:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-34</guid>
+    </item>
+    <item>
+      <title>"We rise by lifting others."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-13</link>
+      <description>— Robert Ingersoll</description>
+      <author>noreply@example.com (Robert Ingersoll)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Sat, 30 May 2026 08:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-13</guid>
     </item>
   </channel>
 </rss>
