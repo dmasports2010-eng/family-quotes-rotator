@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Walking with a friend in the dark is better than walking alone in the light."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-49</link>
-      <description>— Helen Keller</description>
-      <author>noreply@example.com (Helen Keller)</author>
-      <category>Friendship &amp; Connection</category>
-      <pubDate>Thu, 28 May 2026 20:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-49</guid>
-    </item>
-    <item>
       <title>"We do not remember days, we remember moments."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-87</link>
       <description>— Cesare Pavese</description>
@@ -815,6 +806,15 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Thu, 28 May 2026 18:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-51</guid>
+    </item>
+    <item>
+      <title>"Walking with a friend in the dark is better than walking alone in the light."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-49</link>
+      <description>— Helen Keller</description>
+      <author>noreply@example.com (Helen Keller)</author>
+      <category>Friendship &amp; Connection</category>
+      <pubDate>Thu, 28 May 2026 20:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-49</guid>
     </item>
   </channel>
 </rss>
