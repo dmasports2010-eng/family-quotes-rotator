@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Gratitude turns what we have into enough."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-39</link>
-      <description>— Melody Beattie</description>
-      <author>noreply@example.com (Melody Beattie)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Fri, 29 May 2026 06:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-39</guid>
-    </item>
-    <item>
       <title>"There is nothing better than a friend, unless it is a friend with chocolate."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-3</link>
       <description>— Linda Grayson</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Fri, 29 May 2026 19:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-26</guid>
+    </item>
+    <item>
+      <title>"Gratitude turns what we have into enough."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-39</link>
+      <description>— Melody Beattie</description>
+      <author>noreply@example.com (Melody Beattie)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Fri, 29 May 2026 06:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-39</guid>
     </item>
   </channel>
 </rss>
