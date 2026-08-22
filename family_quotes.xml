@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Wherever there is a human being, there is an opportunity for a kindness."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-7</link>
-      <description>— Seneca</description>
-      <author>noreply@example.com (Seneca)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Thu, 09 Jul 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">quote-7</guid>
-    </item>
-    <item>
       <title>"The greatest happiness of life is the conviction that we are loved."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-78</link>
       <description>— Victor Hugo</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Wed, 27 May 2026 17:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-76</guid>
+    </item>
+    <item>
+      <title>"Wherever there is a human being, there is an opportunity for a kindness."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-7</link>
+      <description>— Seneca</description>
+      <author>noreply@example.com (Seneca)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Thu, 09 Jul 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="false">quote-7</guid>
     </item>
   </channel>
 </rss>
