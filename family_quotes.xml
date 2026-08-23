@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Often when you think you're at the end of something, you're at the beginning of something else."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-79</link>
-      <description>— Fred Rogers</description>
-      <author>noreply@example.com (Fred Rogers)</author>
-      <category>Resilience &amp; Courage</category>
-      <pubDate>Wed, 27 May 2026 14:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-79</guid>
-    </item>
-    <item>
       <title>"A friend is someone who knows all about you and still loves you."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-38</link>
       <description>— Elbert Hubbard</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Wed, 27 May 2026 13:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-80</guid>
+    </item>
+    <item>
+      <title>"Often when you think you're at the end of something, you're at the beginning of something else."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-79</link>
+      <description>— Fred Rogers</description>
+      <author>noreply@example.com (Fred Rogers)</author>
+      <category>Resilience &amp; Courage</category>
+      <pubDate>Wed, 27 May 2026 14:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-79</guid>
     </item>
   </channel>
 </rss>
