@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Where there is love there is life."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-65</link>
-      <description>— Mahatma Gandhi</description>
-      <author>noreply@example.com (Mahatma Gandhi)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Thu, 28 May 2026 04:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-65</guid>
-    </item>
-    <item>
       <title>"Make each day your masterpiece."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-60</link>
       <description>— John Wooden</description>
@@ -815,6 +806,15 @@
       <category>Friendship &amp; Connection</category>
       <pubDate>Fri, 29 May 2026 07:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-38</guid>
+    </item>
+    <item>
+      <title>"Where there is love there is life."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-65</link>
+      <description>— Mahatma Gandhi</description>
+      <author>noreply@example.com (Mahatma Gandhi)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Thu, 28 May 2026 04:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-65</guid>
     </item>
   </channel>
 </rss>
