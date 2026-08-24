@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Make each day your masterpiece."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-60</link>
-      <description>— John Wooden</description>
-      <author>noreply@example.com (John Wooden)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Thu, 28 May 2026 09:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-60</guid>
-    </item>
-    <item>
       <title>"There are no seven wonders of the world in the eyes of a child. There are seven million."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-25</link>
       <description>— Walt Streightiff</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Thu, 28 May 2026 04:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-65</guid>
+    </item>
+    <item>
+      <title>"Make each day your masterpiece."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-60</link>
+      <description>— John Wooden</description>
+      <author>noreply@example.com (John Wooden)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Thu, 28 May 2026 09:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-60</guid>
     </item>
   </channel>
 </rss>
