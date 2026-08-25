@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Sometimes the smallest things take up the most room in your heart."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-44</link>
-      <description>— A.A. Milne</description>
-      <author>noreply@example.com (A.A. Milne)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Fri, 29 May 2026 01:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-44</guid>
-    </item>
-    <item>
       <title>"Connection is why we're here. It is what gives purpose and meaning to our lives."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-32</link>
       <description>— Brené Brown</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Thu, 28 May 2026 11:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-58</guid>
+    </item>
+    <item>
+      <title>"Sometimes the smallest things take up the most room in your heart."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-44</link>
+      <description>— A.A. Milne</description>
+      <author>noreply@example.com (A.A. Milne)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Fri, 29 May 2026 01:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-44</guid>
     </item>
   </channel>
 </rss>
