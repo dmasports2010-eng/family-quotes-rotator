@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Wherever you go, no matter what the weather, always bring your own sunshine."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-28</link>
-      <description>— Anthony J. D'Angelo</description>
-      <author>noreply@example.com (Anthony J. D'Angelo)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Fri, 29 May 2026 17:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-28</guid>
-    </item>
-    <item>
       <title>"When I started counting my blessings, my whole life turned around."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-8</link>
       <description>— Willie Nelson</description>
@@ -815,6 +806,15 @@
       <category>Hope &amp; Inspiration</category>
       <pubDate>Wed, 27 May 2026 20:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-73</guid>
+    </item>
+    <item>
+      <title>"Wherever you go, no matter what the weather, always bring your own sunshine."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-28</link>
+      <description>— Anthony J. D'Angelo</description>
+      <author>noreply@example.com (Anthony J. D'Angelo)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Fri, 29 May 2026 17:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-28</guid>
     </item>
   </channel>
 </rss>
