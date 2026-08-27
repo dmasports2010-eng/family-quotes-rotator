@@ -7,24 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Have you had a kindness shown? Pass it on."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
-      <description>— Henry Burton</description>
-      <author>noreply@example.com (Henry Burton)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-40</guid>
-    </item>
-    <item>
-      <title>"Wherever you go, there you are."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-77</link>
-      <description>— Jon Kabat-Zinn</description>
-      <author>noreply@example.com (Jon Kabat-Zinn)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 16:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-77</guid>
-    </item>
-    <item>
       <title>"Hope is the thing with feathers that perches in the soul."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-50</link>
       <description>— Emily Dickinson</description>
@@ -815,6 +797,24 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Sat, 30 May 2026 10:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-11</guid>
+    </item>
+    <item>
+      <title>"Have you had a kindness shown? Pass it on."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
+      <description>— Henry Burton</description>
+      <author>noreply@example.com (Henry Burton)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-40</guid>
+    </item>
+    <item>
+      <title>"Wherever you go, there you are."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-77</link>
+      <description>— Jon Kabat-Zinn</description>
+      <author>noreply@example.com (Jon Kabat-Zinn)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 16:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-77</guid>
     </item>
   </channel>
 </rss>
