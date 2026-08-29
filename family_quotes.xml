@@ -7,24 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Laughter is the sun that drives winter from the human face."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-85</link>
-      <description>— Victor Hugo</description>
-      <author>noreply@example.com (Victor Hugo)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Wed, 27 May 2026 08:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-85</guid>
-    </item>
-    <item>
-      <title>"Love and kindness are never wasted. They always make a difference."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-61</link>
-      <description>— Barbara De Angelis</description>
-      <author>noreply@example.com (Barbara De Angelis)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Thu, 28 May 2026 08:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-61</guid>
-    </item>
-    <item>
       <title>"To love and be loved is to feel the sun from both sides."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-54</link>
       <description>— David Viscott</description>
@@ -815,6 +797,24 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Fri, 29 May 2026 08:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-37</guid>
+    </item>
+    <item>
+      <title>"Laughter is the sun that drives winter from the human face."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-85</link>
+      <description>— Victor Hugo</description>
+      <author>noreply@example.com (Victor Hugo)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Wed, 27 May 2026 08:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-85</guid>
+    </item>
+    <item>
+      <title>"Love and kindness are never wasted. They always make a difference."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-61</link>
+      <description>— Barbara De Angelis</description>
+      <author>noreply@example.com (Barbara De Angelis)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Thu, 28 May 2026 08:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-61</guid>
     </item>
   </channel>
 </rss>
