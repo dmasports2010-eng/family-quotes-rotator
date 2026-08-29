@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Be kind, for everyone you meet is fighting a hard battle."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-37</link>
-      <description>— Ian MacLaren</description>
-      <author>noreply@example.com (Ian MacLaren)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Fri, 29 May 2026 08:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-37</guid>
-    </item>
-    <item>
       <title>"Laughter is the sun that drives winter from the human face."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-85</link>
       <description>— Victor Hugo</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Sat, 30 May 2026 11:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-10</guid>
+    </item>
+    <item>
+      <title>"Be kind, for everyone you meet is fighting a hard battle."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-37</link>
+      <description>— Ian MacLaren</description>
+      <author>noreply@example.com (Ian MacLaren)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Fri, 29 May 2026 08:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-37</guid>
     </item>
   </channel>
 </rss>
