@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"If you want to lift yourself up, lift up someone else."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-6</link>
-      <description>— Booker T. Washington</description>
-      <author>noreply@example.com (Booker T. Washington)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Wed, 08 Jul 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">quote-6</guid>
-    </item>
-    <item>
       <title>"Just keep swimming."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-12</link>
       <description>— Dory</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Thu, 28 May 2026 15:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-54</guid>
+    </item>
+    <item>
+      <title>"If you want to lift yourself up, lift up someone else."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-6</link>
+      <description>— Booker T. Washington</description>
+      <author>noreply@example.com (Booker T. Washington)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Wed, 08 Jul 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="false">quote-6</guid>
     </item>
   </channel>
 </rss>
