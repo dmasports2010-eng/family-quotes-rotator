@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Each one of us can make a difference. Together we make change."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-18</link>
-      <description>— Barbara Mikulski</description>
-      <author>noreply@example.com (Barbara Mikulski)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Sat, 30 May 2026 03:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-18</guid>
-    </item>
-    <item>
       <title>"In a world where you can be anything, be kind."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-48</link>
       <description>— Jennifer Dukes Lee</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Sat, 30 May 2026 09:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-12</guid>
+    </item>
+    <item>
+      <title>"Each one of us can make a difference. Together we make change."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-18</link>
+      <description>— Barbara Mikulski</description>
+      <author>noreply@example.com (Barbara Mikulski)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Sat, 30 May 2026 03:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-18</guid>
     </item>
   </channel>
 </rss>
