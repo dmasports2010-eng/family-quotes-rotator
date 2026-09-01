@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Wherever you are, be all there."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-90</link>
-      <description>— Jim Elliot</description>
-      <author>noreply@example.com (Jim Elliot)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 03:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-90</guid>
-    </item>
-    <item>
       <title>"Once you choose hope, anything's possible."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-35</link>
       <description>— Christopher Reeve</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Sat, 30 May 2026 00:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-21</guid>
+    </item>
+    <item>
+      <title>"Wherever you are, be all there."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-90</link>
+      <description>— Jim Elliot</description>
+      <author>noreply@example.com (Jim Elliot)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 03:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-90</guid>
     </item>
   </channel>
 </rss>
