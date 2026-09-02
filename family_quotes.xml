@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Today is the oldest you've ever been, and the youngest you'll ever be again."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-68</link>
-      <description>— Eleanor Roosevelt</description>
-      <author>noreply@example.com (Eleanor Roosevelt)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Thu, 28 May 2026 01:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-68</guid>
-    </item>
-    <item>
       <title>"Be the reason someone smiles today."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-14</link>
       <description>— Roy T. Bennett</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Fri, 29 May 2026 16:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-29</guid>
+    </item>
+    <item>
+      <title>"Today is the oldest you've ever been, and the youngest you'll ever be again."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-68</link>
+      <description>— Eleanor Roosevelt</description>
+      <author>noreply@example.com (Eleanor Roosevelt)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Thu, 28 May 2026 01:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-68</guid>
     </item>
   </channel>
 </rss>
