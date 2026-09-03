@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Life is what happens when you're busy making other plans."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-23</link>
-      <description>— John Lennon</description>
-      <author>noreply@example.com (John Lennon)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Fri, 29 May 2026 22:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-23</guid>
-    </item>
-    <item>
       <title>"Look for the helpers. You will always find people who are helping."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-46</link>
       <description>— Fred Rogers</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Thu, 28 May 2026 00:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-69</guid>
+    </item>
+    <item>
+      <title>"Life is what happens when you're busy making other plans."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-23</link>
+      <description>— John Lennon</description>
+      <author>noreply@example.com (John Lennon)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Fri, 29 May 2026 22:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-23</guid>
     </item>
   </channel>
 </rss>
