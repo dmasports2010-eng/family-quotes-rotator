@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"We can't help everyone, but everyone can help someone."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-52</link>
-      <description>— Ronald Reagan</description>
-      <author>noreply@example.com (Ronald Reagan)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Thu, 28 May 2026 17:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-52</guid>
-    </item>
-    <item>
       <title>"You are braver than you believe, stronger than you seem, and smarter than you think."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-63</link>
       <description>— A.A. Milne</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Fri, 29 May 2026 06:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-39</guid>
+    </item>
+    <item>
+      <title>"We can't help everyone, but everyone can help someone."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-52</link>
+      <description>— Ronald Reagan</description>
+      <author>noreply@example.com (Ronald Reagan)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Thu, 28 May 2026 17:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-52</guid>
     </item>
   </channel>
 </rss>
