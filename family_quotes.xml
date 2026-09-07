@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"There are no seven wonders of the world in the eyes of a child. There are seven million."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-25</link>
-      <description>— Walt Streightiff</description>
-      <author>noreply@example.com (Walt Streightiff)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Fri, 29 May 2026 20:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-25</guid>
-    </item>
-    <item>
       <title>"It is never too late to be what you might have been."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-24</link>
       <description>— George Eliot</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Thu, 28 May 2026 14:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-55</guid>
+    </item>
+    <item>
+      <title>"There are no seven wonders of the world in the eyes of a child. There are seven million."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-25</link>
+      <description>— Walt Streightiff</description>
+      <author>noreply@example.com (Walt Streightiff)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Fri, 29 May 2026 20:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-25</guid>
     </item>
   </channel>
 </rss>
