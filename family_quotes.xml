@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"In a world where you can be anything, be kind."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-48</link>
-      <description>— Jennifer Dukes Lee</description>
-      <author>noreply@example.com (Jennifer Dukes Lee)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Thu, 28 May 2026 21:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-48</guid>
-    </item>
-    <item>
       <title>"Don't count the days, make the days count."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-76</link>
       <description>— Muhammad Ali</description>
@@ -815,6 +806,15 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Wed, 27 May 2026 10:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-83</guid>
+    </item>
+    <item>
+      <title>"In a world where you can be anything, be kind."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-48</link>
+      <description>— Jennifer Dukes Lee</description>
+      <author>noreply@example.com (Jennifer Dukes Lee)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Thu, 28 May 2026 21:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-48</guid>
     </item>
   </channel>
 </rss>
