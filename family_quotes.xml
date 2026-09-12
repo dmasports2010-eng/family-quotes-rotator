@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Life is really simple, but we insist on making it complicated."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-22</link>
-      <description>— Confucius</description>
-      <author>noreply@example.com (Confucius)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Fri, 29 May 2026 23:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-22</guid>
-    </item>
-    <item>
       <title>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-74</link>
       <description>— Marianne Williamson</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Fri, 29 May 2026 11:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-34</guid>
+    </item>
+    <item>
+      <title>"Life is really simple, but we insist on making it complicated."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-22</link>
+      <description>— Confucius</description>
+      <author>noreply@example.com (Confucius)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Fri, 29 May 2026 23:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-22</guid>
     </item>
   </channel>
 </rss>
