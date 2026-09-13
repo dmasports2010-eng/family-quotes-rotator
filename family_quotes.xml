@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Happiness is not something ready made. It comes from your own actions."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-80</link>
-      <description>— Dalai Lama</description>
-      <author>noreply@example.com (Dalai Lama)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 13:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-80</guid>
-    </item>
-    <item>
       <title>"We do not remember days, we remember moments."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-87</link>
       <description>— Cesare Pavese</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Mon, 06 Jul 2026 11:00:02 +0000</pubDate>
       <guid isPermaLink="false">quote-4</guid>
+    </item>
+    <item>
+      <title>"Happiness is not something ready made. It comes from your own actions."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-80</link>
+      <description>— Dalai Lama</description>
+      <author>noreply@example.com (Dalai Lama)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 13:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-80</guid>
     </item>
   </channel>
 </rss>
