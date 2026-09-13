@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Family is not an important thing. It's everything."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-4</link>
-      <description>— Michael J. Fox</description>
-      <author>noreply@example.com (Michael J. Fox)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Mon, 06 Jul 2026 11:00:02 +0000</pubDate>
-      <guid isPermaLink="false">quote-4</guid>
-    </item>
-    <item>
       <title>"Happiness is not something ready made. It comes from your own actions."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-80</link>
       <description>— Dalai Lama</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Mon, 08 Jun 2026 23:39:52 +0000</pubDate>
       <guid isPermaLink="false">quote-2</guid>
+    </item>
+    <item>
+      <title>"Family is not an important thing. It's everything."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-4</link>
+      <description>— Michael J. Fox</description>
+      <author>noreply@example.com (Michael J. Fox)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Mon, 06 Jul 2026 11:00:02 +0000</pubDate>
+      <guid isPermaLink="false">quote-4</guid>
     </item>
   </channel>
 </rss>
