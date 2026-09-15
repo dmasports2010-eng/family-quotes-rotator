@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-19</link>
-      <description>— Ralph Waldo Emerson</description>
-      <author>noreply@example.com (Ralph Waldo Emerson)</author>
-      <category>Resilience &amp; Courage</category>
-      <pubDate>Sat, 30 May 2026 02:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-19</guid>
-    </item>
-    <item>
       <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
       <description>— Fred Rogers</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Wed, 27 May 2026 12:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-81</guid>
+    </item>
+    <item>
+      <title>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-19</link>
+      <description>— Ralph Waldo Emerson</description>
+      <author>noreply@example.com (Ralph Waldo Emerson)</author>
+      <category>Resilience &amp; Courage</category>
+      <pubDate>Sat, 30 May 2026 02:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-19</guid>
     </item>
   </channel>
 </rss>
