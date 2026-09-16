@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"There is no remedy for love but to love more."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-59</link>
-      <description>— Henry David Thoreau</description>
-      <author>noreply@example.com (Henry David Thoreau)</author>
-      <category>Love &amp; Family</category>
-      <pubDate>Thu, 28 May 2026 10:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-59</guid>
-    </item>
-    <item>
       <title>"Be the reason someone smiles today."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-14</link>
       <description>— Roy T. Bennett</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Sun, 12 Jul 2026 11:00:02 +0000</pubDate>
       <guid isPermaLink="false">quote-8</guid>
+    </item>
+    <item>
+      <title>"There is no remedy for love but to love more."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-59</link>
+      <description>— Henry David Thoreau</description>
+      <author>noreply@example.com (Henry David Thoreau)</author>
+      <category>Love &amp; Family</category>
+      <pubDate>Thu, 28 May 2026 10:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-59</guid>
     </item>
   </channel>
 </rss>
