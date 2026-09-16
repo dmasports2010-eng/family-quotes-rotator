@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"When I started counting my blessings, my whole life turned around."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-8</link>
-      <description>— Willie Nelson</description>
-      <author>noreply@example.com (Willie Nelson)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Sun, 12 Jul 2026 11:00:02 +0000</pubDate>
-      <guid isPermaLink="false">quote-8</guid>
-    </item>
-    <item>
       <title>"There is no remedy for love but to love more."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-59</link>
       <description>— Henry David Thoreau</description>
@@ -815,6 +806,15 @@
       <category>Hope &amp; Inspiration</category>
       <pubDate>Tue, 07 Jul 2026 11:00:03 +0000</pubDate>
       <guid isPermaLink="false">quote-5</guid>
+    </item>
+    <item>
+      <title>"When I started counting my blessings, my whole life turned around."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-8</link>
+      <description>— Willie Nelson</description>
+      <author>noreply@example.com (Willie Nelson)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Sun, 12 Jul 2026 11:00:02 +0000</pubDate>
+      <guid isPermaLink="false">quote-8</guid>
     </item>
   </channel>
 </rss>
