@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"There is nothing better than a friend, unless it is a friend with chocolate."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-3</link>
-      <description>— Linda Grayson</description>
-      <author>noreply@example.com (Linda Grayson)</author>
-      <category>Friendship &amp; Connection</category>
-      <pubDate>Sun, 05 Jul 2026 11:00:02 +0000</pubDate>
-      <guid isPermaLink="false">quote-3</guid>
-    </item>
-    <item>
       <title>"Hope is the thing with feathers that perches in the soul."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-50</link>
       <description>— Emily Dickinson</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Sat, 30 May 2026 00:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-21</guid>
+    </item>
+    <item>
+      <title>"There is nothing better than a friend, unless it is a friend with chocolate."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-3</link>
+      <description>— Linda Grayson</description>
+      <author>noreply@example.com (Linda Grayson)</author>
+      <category>Friendship &amp; Connection</category>
+      <pubDate>Sun, 05 Jul 2026 11:00:02 +0000</pubDate>
+      <guid isPermaLink="false">quote-3</guid>
     </item>
   </channel>
 </rss>
