@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Kindness is the language which the deaf can hear and the blind can see."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-89</link>
-      <description>— Mark Twain</description>
-      <author>noreply@example.com (Mark Twain)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Wed, 27 May 2026 04:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-89</guid>
-    </item>
-    <item>
       <title>"Often when you think you're at the end of something, you're at the beginning of something else."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-79</link>
       <description>— Fred Rogers</description>
@@ -815,6 +806,15 @@
       <category>Growth &amp; Curiosity</category>
       <pubDate>Sat, 30 May 2026 06:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-15</guid>
+    </item>
+    <item>
+      <title>"Kindness is the language which the deaf can hear and the blind can see."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-89</link>
+      <description>— Mark Twain</description>
+      <author>noreply@example.com (Mark Twain)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Wed, 27 May 2026 04:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-89</guid>
     </item>
   </channel>
 </rss>
