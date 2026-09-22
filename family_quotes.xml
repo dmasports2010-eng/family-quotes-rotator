@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Look for the helpers. You will always find people who are helping."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-46</link>
-      <description>— Fred Rogers</description>
-      <author>noreply@example.com (Fred Rogers)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Thu, 28 May 2026 23:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-46</guid>
-    </item>
-    <item>
       <title>"Try to be a rainbow in someone else's cloud."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-73</link>
       <description>— Maya Angelou</description>
@@ -815,6 +806,15 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Thu, 28 May 2026 18:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-51</guid>
+    </item>
+    <item>
+      <title>"Look for the helpers. You will always find people who are helping."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-46</link>
+      <description>— Fred Rogers</description>
+      <author>noreply@example.com (Fred Rogers)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Thu, 28 May 2026 23:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-46</guid>
     </item>
   </channel>
 </rss>
