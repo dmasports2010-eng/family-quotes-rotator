@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Have you had a kindness shown? Pass it on."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
-      <description>— Henry Burton</description>
-      <author>noreply@example.com (Henry Burton)</author>
-      <category>Kindness &amp; Compassion</category>
-      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-40</guid>
-    </item>
-    <item>
       <title>"Instructions for living a life: Pay attention. Be astonished. Tell about it."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-86</link>
       <description>— Mary Oliver</description>
@@ -815,6 +806,15 @@
       <category>Hope &amp; Inspiration</category>
       <pubDate>Wed, 27 May 2026 20:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-73</guid>
+    </item>
+    <item>
+      <title>"Have you had a kindness shown? Pass it on."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-40</link>
+      <description>— Henry Burton</description>
+      <author>noreply@example.com (Henry Burton)</author>
+      <category>Kindness &amp; Compassion</category>
+      <pubDate>Fri, 29 May 2026 05:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-40</guid>
     </item>
   </channel>
 </rss>
