@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"I am still learning."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-67</link>
-      <description>— Michelangelo</description>
-      <author>noreply@example.com (Michelangelo)</author>
-      <category>Growth &amp; Curiosity</category>
-      <pubDate>Thu, 28 May 2026 02:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-67</guid>
-    </item>
-    <item>
       <title>"Friends are the family you choose."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-30</link>
       <description>— Jess C. Scott</description>
@@ -815,6 +806,15 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Fri, 29 May 2026 08:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-37</guid>
+    </item>
+    <item>
+      <title>"I am still learning."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-67</link>
+      <description>— Michelangelo</description>
+      <author>noreply@example.com (Michelangelo)</author>
+      <category>Growth &amp; Curiosity</category>
+      <pubDate>Thu, 28 May 2026 02:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-67</guid>
     </item>
   </channel>
 </rss>
