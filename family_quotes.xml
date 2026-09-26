@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"If you want to lift yourself up, lift up someone else."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-6</link>
-      <description>— Booker T. Washington</description>
-      <author>noreply@example.com (Booker T. Washington)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Wed, 08 Jul 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">quote-6</guid>
-    </item>
-    <item>
       <title>"When I started counting my blessings, my whole life turned around."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-8</link>
       <description>— Willie Nelson</description>
@@ -815,6 +806,15 @@
       <category>Friendship &amp; Connection</category>
       <pubDate>Fri, 29 May 2026 07:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-38</guid>
+    </item>
+    <item>
+      <title>"If you want to lift yourself up, lift up someone else."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-6</link>
+      <description>— Booker T. Washington</description>
+      <author>noreply@example.com (Booker T. Washington)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Wed, 08 Jul 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="false">quote-6</guid>
     </item>
   </channel>
 </rss>
