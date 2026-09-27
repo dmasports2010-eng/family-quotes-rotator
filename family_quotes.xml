@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Look deep into nature, and then you will understand everything better."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-10</link>
-      <description>— Albert Einstein</description>
-      <author>noreply@example.com (Albert Einstein)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Sat, 30 May 2026 11:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-10</guid>
-    </item>
-    <item>
       <title>"Wherever you go, no matter what the weather, always bring your own sunshine."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-28</link>
       <description>— Anthony J. D'Angelo</description>
@@ -815,6 +806,15 @@
       <category>Joy, Gratitude &amp; Wonder</category>
       <pubDate>Wed, 27 May 2026 08:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-85</guid>
+    </item>
+    <item>
+      <title>"Look deep into nature, and then you will understand everything better."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-10</link>
+      <description>— Albert Einstein</description>
+      <author>noreply@example.com (Albert Einstein)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Sat, 30 May 2026 11:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-10</guid>
     </item>
   </channel>
 </rss>
