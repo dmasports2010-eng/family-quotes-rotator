@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"The more that you read, the more things you will know. The more that you learn, the more places you'll go."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-16</link>
-      <description>— Dr. Seuss</description>
-      <author>noreply@example.com (Dr. Seuss)</author>
-      <category>Growth &amp; Curiosity</category>
-      <pubDate>Sat, 30 May 2026 05:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-16</guid>
-    </item>
-    <item>
       <title>"Yesterday is history, tomorrow is a mystery, today is a gift."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-72</link>
       <description>— Bil Keane</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Fri, 29 May 2026 10:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-35</guid>
+    </item>
+    <item>
+      <title>"The more that you read, the more things you will know. The more that you learn, the more places you'll go."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-16</link>
+      <description>— Dr. Seuss</description>
+      <author>noreply@example.com (Dr. Seuss)</author>
+      <category>Growth &amp; Curiosity</category>
+      <pubDate>Sat, 30 May 2026 05:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-16</guid>
     </item>
   </channel>
 </rss>
