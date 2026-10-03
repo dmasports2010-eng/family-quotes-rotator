@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-45</link>
-      <description>— Marcel Proust</description>
-      <author>noreply@example.com (Marcel Proust)</author>
-      <category>Joy, Gratitude &amp; Wonder</category>
-      <pubDate>Fri, 29 May 2026 00:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-45</guid>
-    </item>
-    <item>
       <title>"You are braver than you believe, stronger than you seem, and smarter than you think."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-63</link>
       <description>— A.A. Milne</description>
@@ -815,6 +806,15 @@
       <category>Friendship &amp; Connection</category>
       <pubDate>Fri, 29 May 2026 18:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-27</guid>
+    </item>
+    <item>
+      <title>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-45</link>
+      <description>— Marcel Proust</description>
+      <author>noreply@example.com (Marcel Proust)</author>
+      <category>Joy, Gratitude &amp; Wonder</category>
+      <pubDate>Fri, 29 May 2026 00:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-45</guid>
     </item>
   </channel>
 </rss>
