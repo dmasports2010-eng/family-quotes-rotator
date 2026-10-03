@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"We're all just walking each other home."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-33</link>
-      <description>— Ram Dass</description>
-      <author>noreply@example.com (Ram Dass)</author>
-      <category>Friendship &amp; Connection</category>
-      <pubDate>Fri, 29 May 2026 12:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-33</guid>
-    </item>
-    <item>
       <title>"Acknowledging the good that you already have in your life is the foundation for all abundance."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-71</link>
       <description>— Eckhart Tolle</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Thu, 28 May 2026 06:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-63</guid>
+    </item>
+    <item>
+      <title>"We're all just walking each other home."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-33</link>
+      <description>— Ram Dass</description>
+      <author>noreply@example.com (Ram Dass)</author>
+      <category>Friendship &amp; Connection</category>
+      <pubDate>Fri, 29 May 2026 12:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-33</guid>
     </item>
   </channel>
 </rss>
