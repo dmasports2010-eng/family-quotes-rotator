@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Happiness is not something ready made. It comes from your own actions."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-80</link>
-      <description>— Dalai Lama</description>
-      <author>noreply@example.com (Dalai Lama)</author>
-      <category>Simple Wisdom &amp; Presence</category>
-      <pubDate>Wed, 27 May 2026 13:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-80</guid>
-    </item>
-    <item>
       <title>"Do not go where the path may lead, go instead where there is no path and leave a trail."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-56</link>
       <description>— Ralph Waldo Emerson</description>
@@ -815,6 +806,15 @@
       <category>Hope &amp; Inspiration</category>
       <pubDate>Fri, 29 May 2026 04:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-41</guid>
+    </item>
+    <item>
+      <title>"Happiness is not something ready made. It comes from your own actions."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-80</link>
+      <description>— Dalai Lama</description>
+      <author>noreply@example.com (Dalai Lama)</author>
+      <category>Simple Wisdom &amp; Presence</category>
+      <pubDate>Wed, 27 May 2026 13:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-80</guid>
     </item>
   </channel>
 </rss>
