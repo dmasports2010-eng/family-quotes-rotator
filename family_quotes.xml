@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Whatever you are, be a good one."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-42</link>
-      <description>— Abraham Lincoln</description>
-      <author>noreply@example.com (Abraham Lincoln)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Fri, 29 May 2026 03:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-42</guid>
-    </item>
-    <item>
       <title>"Love and kindness are never wasted. They always make a difference."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-61</link>
       <description>— Barbara De Angelis</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Fri, 29 May 2026 22:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-23</guid>
+    </item>
+    <item>
+      <title>"Whatever you are, be a good one."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-42</link>
+      <description>— Abraham Lincoln</description>
+      <author>noreply@example.com (Abraham Lincoln)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Fri, 29 May 2026 03:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-42</guid>
     </item>
   </channel>
 </rss>
