@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Even the darkest night will end and the sun will rise."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-11</link>
-      <description>— Victor Hugo</description>
-      <author>noreply@example.com (Victor Hugo)</author>
-      <category>Resilience &amp; Courage</category>
-      <pubDate>Sat, 30 May 2026 10:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-11</guid>
-    </item>
-    <item>
       <title>"Look for the helpers. You will always find people who are helping."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-46</link>
       <description>— Fred Rogers</description>
@@ -815,6 +806,15 @@
       <category>Simple Wisdom &amp; Presence</category>
       <pubDate>Thu, 28 May 2026 11:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-58</guid>
+    </item>
+    <item>
+      <title>"Even the darkest night will end and the sun will rise."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-11</link>
+      <description>— Victor Hugo</description>
+      <author>noreply@example.com (Victor Hugo)</author>
+      <category>Resilience &amp; Courage</category>
+      <pubDate>Sat, 30 May 2026 10:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-11</guid>
     </item>
   </channel>
 </rss>
