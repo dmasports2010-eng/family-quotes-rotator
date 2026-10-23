@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"Friends are the family you choose."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-30</link>
-      <description>— Jess C. Scott</description>
-      <author>noreply@example.com (Jess C. Scott)</author>
-      <category>Friendship &amp; Connection</category>
-      <pubDate>Fri, 29 May 2026 15:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-30</guid>
-    </item>
-    <item>
       <title>"If you want to lift yourself up, lift up someone else."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-6</link>
       <description>— Booker T. Washington</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Mon, 08 Jun 2026 23:39:52 +0000</pubDate>
       <guid isPermaLink="false">quote-2</guid>
+    </item>
+    <item>
+      <title>"Friends are the family you choose."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-30</link>
+      <description>— Jess C. Scott</description>
+      <author>noreply@example.com (Jess C. Scott)</author>
+      <category>Friendship &amp; Connection</category>
+      <pubDate>Fri, 29 May 2026 15:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-30</guid>
     </item>
   </channel>
 </rss>
