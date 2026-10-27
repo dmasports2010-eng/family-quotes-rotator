@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"You are braver than you believe, stronger than you seem, and smarter than you think."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-63</link>
-      <description>— A.A. Milne</description>
-      <author>noreply@example.com (A.A. Milne)</author>
-      <category>Resilience &amp; Courage</category>
-      <pubDate>Thu, 28 May 2026 06:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-63</guid>
-    </item>
-    <item>
       <title>"There is no remedy for love but to love more."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-59</link>
       <description>— Henry David Thoreau</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Wed, 27 May 2026 14:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-79</guid>
+    </item>
+    <item>
+      <title>"You are braver than you believe, stronger than you seem, and smarter than you think."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-63</link>
+      <description>— A.A. Milne</description>
+      <author>noreply@example.com (A.A. Milne)</author>
+      <category>Resilience &amp; Courage</category>
+      <pubDate>Thu, 28 May 2026 06:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-63</guid>
     </item>
   </channel>
 </rss>
