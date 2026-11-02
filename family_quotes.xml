@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
-      <description>— Fred Rogers</description>
-      <author>noreply@example.com (Fred Rogers)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Tue, 07 Jul 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">quote-5</guid>
-    </item>
-    <item>
       <title>"Be the change that you wish to see in the world."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-62</link>
       <description>— Mahatma Gandhi</description>
@@ -815,6 +806,15 @@
       <category>Kindness &amp; Compassion</category>
       <pubDate>Wed, 27 May 2026 09:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-84</guid>
+    </item>
+    <item>
+      <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
+      <description>— Fred Rogers</description>
+      <author>noreply@example.com (Fred Rogers)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Tue, 07 Jul 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="false">quote-5</guid>
     </item>
   </channel>
 </rss>
