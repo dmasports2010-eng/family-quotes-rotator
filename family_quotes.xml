@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
-      <description>— Fred Rogers</description>
-      <author>noreply@example.com (Fred Rogers)</author>
-      <category>Hope &amp; Inspiration</category>
-      <pubDate>Tue, 07 Jul 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">quote-5</guid>
-    </item>
-    <item>
       <title>"To love and be loved is to feel the sun from both sides."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-54</link>
       <description>— David Viscott</description>
@@ -815,6 +806,15 @@
       <category>Love &amp; Family</category>
       <pubDate>Thu, 28 May 2026 10:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-59</guid>
+    </item>
+    <item>
+      <title>"There are three ways to ultimate success: the first is to be kind. The second is to be kind. The third is to be kind."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-5</link>
+      <description>— Fred Rogers</description>
+      <author>noreply@example.com (Fred Rogers)</author>
+      <category>Hope &amp; Inspiration</category>
+      <pubDate>Tue, 07 Jul 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="false">quote-5</guid>
     </item>
   </channel>
 </rss>
