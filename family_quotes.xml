@@ -7,15 +7,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 11:00:02 +0000</lastBuildDate>
     <item>
-      <title>"A friend is someone who knows all about you and still loves you."</title>
-      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-38</link>
-      <description>— Elbert Hubbard</description>
-      <author>noreply@example.com (Elbert Hubbard)</author>
-      <category>Friendship &amp; Connection</category>
-      <pubDate>Fri, 29 May 2026 07:40:54 +0000</pubDate>
-      <guid isPermaLink="false">quote-38</guid>
-    </item>
-    <item>
       <title>"The only way to have a friend is to be one."</title>
       <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-9</link>
       <description>— Ralph Waldo Emerson</description>
@@ -815,6 +806,15 @@
       <category>Resilience &amp; Courage</category>
       <pubDate>Thu, 28 May 2026 19:40:54 +0000</pubDate>
       <guid isPermaLink="false">quote-50</guid>
+    </item>
+    <item>
+      <title>"A friend is someone who knows all about you and still loves you."</title>
+      <link>https://github.com/dmasports2010-eng/family-quotes-rotator#quote-38</link>
+      <description>— Elbert Hubbard</description>
+      <author>noreply@example.com (Elbert Hubbard)</author>
+      <category>Friendship &amp; Connection</category>
+      <pubDate>Fri, 29 May 2026 07:40:54 +0000</pubDate>
+      <guid isPermaLink="false">quote-38</guid>
     </item>
   </channel>
 </rss>
